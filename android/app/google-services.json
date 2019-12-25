@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054607742583",
+    "firebase_url": "https://blue-flutter.firebaseio.com",
+    "project_id": "blue-flutter",
+    "storage_bucket": "blue-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054607742583:android:139990300748566e",
+        "android_client_info": {
+          "package_name": "blue_flutter.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054607742583-7rop9gikirpgcuadrduh2ri5h6c0rkvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNmTv7LTo49LjPZ-IC1KEHul5jen13jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054607742583-7rop9gikirpgcuadrduh2ri5h6c0rkvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
